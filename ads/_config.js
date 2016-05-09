@@ -55,6 +55,7 @@ export const adPrefetch = {
   colombia: 'https://static.clmbtech.com/ad/commons/js/colombia-amp.js',
   eplanning: 'https://us.img.e-planning.net/layers/epl-amp.js',
   appnexus: 'https://acdn.adnxs.com/ast/ast.js',
+  nend: 'https://nend.net/js/amp.js',
 };
 
 /**
@@ -147,6 +148,7 @@ export const adPreconnect = {
   yieldbot: 'https://i.yldbt.com',
   adstir: 'https://ad.ad-stir.com',
   appnexus: 'https://ib.adnxs.com',
+  nend: 'https://nend.net',
 };
 
 /**
